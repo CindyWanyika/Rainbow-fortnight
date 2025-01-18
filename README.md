@@ -19,15 +19,6 @@ Test the solution with sample test cases and edge cases.
 
 Optimize the solution for better time and space complexity (if possible).
 
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-
-Navigate to the desired folder based on difficulty level.
-
-Open the Python file corresponding to the problem.
 
 Topics Covered
 
@@ -43,7 +34,7 @@ Dynamic Programming
 
 Binary Search
 
-Sliding Window
+Greedy Algorithm
 
 And more!
 

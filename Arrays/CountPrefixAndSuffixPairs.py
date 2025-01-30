@@ -24,4 +24,4 @@ class Solution(object):
             for y in range(len(words)):
                 if x<y and words[y].startswith(words[x]) and words[y].endswith(words[x]):
                     count+=1
-        return count 
+        return count

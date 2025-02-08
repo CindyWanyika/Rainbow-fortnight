@@ -1,0 +1,1 @@
+print("pnk" in "pink")

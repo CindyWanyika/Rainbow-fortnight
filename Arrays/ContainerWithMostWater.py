@@ -6,7 +6,7 @@ Find two lines that together with the x-axis form a container, such that the con
 Return the maximum amount of water a container can store.
 
 Notice that you may not slant the container."""
-class Solution:
+class Solution:  
     def maxArea(self, height: list[int]) -> int:
         largest=0
         left=0
